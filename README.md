@@ -22,10 +22,6 @@ If you're looking for a passionate, meticulous, effective leader or developer to
  - Native iOS development with Swift
  - Front-end web development, mostly with React but I am picking up alternatives
  - General cloud architecture and development 
-
-### 💪 I'm also decent at: 
-
- - Back-end web development with Go and Ruby 
  - DevOps and CI stuff 
 
 ### 🍄 Other interests:
