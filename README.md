@@ -35,6 +35,6 @@ If you're looking for a passionate, meticulous, effective leader or developer to
    - GUI frameworks 
    - Cross-platform development with technologies like [swift-bridge](https://github.com/chinedufn/swift-bridge); 
      this allows you to easily create a unified core software package in Rust and build your UI separately on top of that. 
-     For example, I believe 1Password has a Rust core like that, and my next cross-platform application will certainly have a native UI running on top of a Rust core. 
+     For example, I believe 1Password does something like this. My next cross-platform application will certainly have a native UI running on top of a Rust core. 
  - Game development 
  - Cryptography 
