@@ -1,4 +1,4 @@
-👋 Howdy ❕
+👋 Howdy❕
 ======
 
 My name's Jake and I live in Atlanta.  I've been writing code since I was pretty young; I've mostly focused on web and iOS apps but I'm always looking to expand my horizons. 
