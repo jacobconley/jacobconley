@@ -1,8 +1,7 @@
 👋 Howdy ❕
 ======
 
-My name's Jake and I live in Atlanta.  
-I've been writing code since I was pretty young; I've mostly focused on web and iOS apps but I'm always looking to expand my horizons. 
+My name's Jake and I live in Atlanta.  I've been writing code since I was pretty young; I've mostly focused on web and iOS apps but I'm always looking to expand my horizons. 
 
 Please feel free to check out [my web site](jakeconley.com) - it has a more complete bio and presentable list of projects, and I've recently started a blog on there too. 
 You can contact me at [jake@jakeconley.com](mailto:jake@jakeconley.com)! 
