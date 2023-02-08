@@ -3,6 +3,8 @@
 
 My name's Jake and I live in Atlanta.  I've been writing code since I was pretty young; I've mostly focused on web and iOS apps but I'm always looking to expand my horizons. 
 
+I'm currently working on Veneto, a hypermedia API toolkit.  Check out my blog post announcing it [here](https://www.jakeconley.com/posts/2023-02-07_veneto-announcement.htm)!  
+
 Please feel free to check out [my web site](https://www.jakeconley.com) - it has a more complete bio and presentable list of projects, and I've recently started a blog on there too. 
 You can contact me at [jake@jakeconley.com](mailto:jake@jakeconley.com)! 
 
