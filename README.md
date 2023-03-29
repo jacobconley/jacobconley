@@ -9,12 +9,6 @@ Please feel free to check out [my web site](https://www.jakeconley.com) - it has
 You can contact me at [jake@jakeconley.com](mailto:jake@jakeconley.com)! 
 
 
-🧑🏻‍💼 I'm looking for a job!
----
-
-If you're looking for a passionate, meticulous, effective leader or developer to work with any of the below technologies, I just might be your guy 😉 
-
-
 😺 Things I do
 ---
 
